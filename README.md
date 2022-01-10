@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @AdaChime
+- 👋 Hi, I’m @ada_chime
 - 👀 I’m interested in data science
 - 🌱 I’m currently learning machine language
 - 💞️ I’m looking to collaborate on data science
